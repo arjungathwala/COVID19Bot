@@ -1,0 +1,14 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "Microsoft.Bot.Configuration", "Microsoft.Bot.Configuration.dll", "{13EE051E-93EB-4242-9222-3FB12C3AD63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13EE051E-93EB-4242-9222-3FB12C3AD63E}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{13EE051E-93EB-4242-9222-3FB12C3AD63E}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal

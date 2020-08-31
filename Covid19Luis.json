@@ -1,0 +1,196 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "Covid19",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "Covid19US"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "WorldCovid19"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "corona US",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "corona virus US",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "coronavirus update US",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "covid19",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "covid19 US",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "current covid19 status",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "current numbers of covid19 patient",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "current update on corona virus",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "global",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global covid19",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global covid19 status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global covid19 update",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global live status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "US",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "US corona update",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live corona virus detail",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live covid19",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live covid19 status",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live status",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live status of coronavirus",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "today",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "today covid19 status",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "today live status",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "today status",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "today world update",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "what is current numbers of covid19 patient",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "world",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world corona update",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world covid19",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world live status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world update",
+      "intent": "WorldCovid19",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

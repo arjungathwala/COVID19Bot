@@ -1,0 +1,75 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "Covid19US",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "WorldCovid19",
+      "features": []
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "covid cases us",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "covid-19 us",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live status of covid-19 in the us",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "live world covid cases",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "live world covid cases count",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "total covid cases in world",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "us covid cases",
+      "intent": "Covid19US",
+      "entities": []
+    },
+    {
+      "text": "world covid cases",
+      "intent": "WorldCovid19",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1",
+  "name": "Covid19",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}
